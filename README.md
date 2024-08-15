@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mehak-max
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full-Stack Development
+- 🌱 I’m currently learning Full-Stack Development from Arfa Software Technology
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me mehakaslam010@gmail.com
 - 😄 Pronouns: She/Her
